@@ -19,7 +19,7 @@ from ui import Ui_Form
 import pandas as pd
 import os
 
-# 这是一个测试
+
 class MyMainWindow(QWidget, Ui_Form):
     def __init__(self):
         super(MyMainWindow, self).__init__()
